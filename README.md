@@ -11,6 +11,7 @@ The project is designed using real-world data modeling practices, including a St
 
 ________________________________________
 🧠 Business Problem
+
 Financial institutions face challenges such as:
 
 •	Increasing fraud losses
@@ -53,7 +54,7 @@ Key Columns:
 ________________________________________
 🏗 Data Modeling Approach
 
-⭐ Star Schema (Industry Standard)
+⭐ Star Schema
 
 Fact Table
 
@@ -181,6 +182,6 @@ This project demonstrates how SQL + Power BI can be used in a real-world fraud a
 ________________________________________
 📌 Author
 
-S. Sai Vamshidhar
+S.Sai Vamshidhar
 
 Aspiring Data Analyst | SQL | Power BI | Data Analytics
